@@ -1,3 +1,5 @@
 ArchivoNuevo.txt fue creado con el propósito de añadir nueva información en una nueva rama.
 
 Prueba para cambios en el repositorio clonado en mi lat
+
+Ahora el cambio es en mi lap top
